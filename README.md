@@ -21,7 +21,7 @@
 
 ## Overview:
 
-* Dependencies on Other microsevices : ** You should have Java 8 or any version above that, maven, angular-cli - to run this project**
+* Dependencies : ***You should have Java 8 or any version above that, maven, angular-cli - to run this frontend***
   <br/>
 
 * ### User Flow of the Audit Management App : 
