@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
-### Use `npm install` first
+#### Use `npm install` first to add "node modules" folder.
 
 ## Development server:
 
