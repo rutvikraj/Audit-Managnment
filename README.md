@@ -19,9 +19,9 @@
     </tr>
 </table>
 
-## Overview::
+## Overview:
 
-* ### Dependencies on Other microsevices : ** You should have Java 8 or any version above that, maven, angular-cli - to run this project**
+* Dependencies on Other microsevices : ** You should have Java 8 or any version above that, maven, angular-cli - to run this project**
   <br/>
 
 * ### User Flow of the Audit Management App : 
