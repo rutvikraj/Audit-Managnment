@@ -21,15 +21,15 @@
 
 ## Overview::
 
-* ### How to run this project || Execution : --Dependencies on Other microsevices : ** You should have Java 8 or any version above that, maven, angular-cli - to run this project**
+* ### How to run this project || Execution : 
+      --Dependencies on Other microsevices : ** You should have Java 8 or any version above that, maven, angular-cli - to run this project**
   <br/>
 
-   --Steps after getting the project in your local machine : 
+  --Steps after getting the project in your local machine : 
     
-
   * #### 1> USING CMD OR TERMINAL<br/>
-    * ## 1.1 - Open CMD or any terminal and go to the "Audit-ExecutationCommands" folder<br/>
-    * ## 1.2 - run the "ExecuteProject" batch file<br/>
+    * 1.1 - Open CMD or any terminal and go to the "Audit-ExecutationCommands" folder<br/>
+    * 1.2 - run the "ExecuteProject" batch file<br/>
 
   * ## Another way is -- Just go to the "ExecuteAll" folder and double click the "ExecuteProject" batch file<br/>
 
