@@ -1,4 +1,6 @@
 # Audit-Management-Microservices
+### To genrate jar files use `maven clean` on Spring Tool Suite or Command Line.
+
 ## Authorization Microservice
 - This microservice is used with anonymous access to Generate JWT. Also, this module is used for the Authorization & Validation. And, it provides the endpoints for Authentication and Validation.
 - ## Methods:
