@@ -29,20 +29,19 @@
     
 
   * #### 1> USING CMD OR TERMINAL<br/>
-    * #### 1.1> Open CMD or any terminal and go to the "Audit-ExecutationCommands" folder<br/>
-    * #### 1.2> run the "ExecuteProject" batch file<br/>
+    * #### 1.1 - Open CMD or any terminal and go to the "Audit-ExecutationCommands" folder<br/>
+    * #### 1.2 - run the "ExecuteProject" batch file<br/>
 
-  * #### 2> Another way is -- Just go to the "ExecuteAll" folder and double click the "ExecuteProject" batch file<br/>
+  * #### Another way is -- Just go to the "ExecuteAll" folder and double click the "ExecuteProject" batch file<br/>
 
 * ### User Flow of the Audit Management App : 
-    * ### 1> Audit management Portal allows a member to Login. 
-    * ### 2> Once successfully logged in, the member do the following operations: 
-    * ### 3> Choose the audit type to view the list of audit checklist questions
-    * ### 4> Let the project manager provide answers to the questions 
-    * ### 5> Invoke the Audit Severity Microservice to determine the project execution status
-    * ### 6> Display the result on the Web UI 
-    * ### 7> The audit response detail along with the project execution status and remedial action duration should be saved to the database
+    * ### Audit management Portal allows a member to Login. 
+    * ### Once successfully logged in, the member do the following operations: 
+    * ### Choose the audit type to view the list of audit checklist questions
+    * ### Let the project manager provide answers to the questions 
+    * ### Invoke the Audit Severity Microservice to determine the project execution status
+    * ### Display the result on the Web UI 
+    * ### The audit response detail along with the project execution status and remedial action duration should be saved to the database
 
 * ### NOTE : 
     * ### Also each backend and frontend contains README file to have a better idea!    
-# Audit-Managnment
