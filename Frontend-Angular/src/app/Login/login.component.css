@@ -1,0 +1,97 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap'); */
+
+.card {
+    margin-top: 10%;
+    border: none
+    
+}
+
+
+.box {
+    font-family: 'Urbanist', sans-serif;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    border-radius: 20px;
+    background: rgba(76, 129, 175, 0.1);
+    text-align: center;
+    transition: 0.25s;
+    margin-top: 100px
+}
+
+/* #username, #password{
+    color: #ffffff;
+} */
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    text-align: left;
+    color: rgb(255, 255, 255);
+    opacity: 0.3; /* Firefox */
+  }
+
+.box input[type="text"],
+.box input[type="password"] {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px 1px;
+    text-align: left;
+    border: 2px solid #3498db;
+    padding: 10px;
+    width: 400px;
+    outline: none;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    transition: 0.25s
+}
+
+.box h1 {
+    color: rgb(244, 244, 244);
+    text-align: left;
+    font-weight: 500
+}
+
+.box input[type="text"]:focus,
+.box input[type="password"]:focus {
+    /* width: 300px; */
+    border-color: #2e5dcc
+}
+
+.box input[type="submit"] {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 25px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 10px;
+    transition: 0.15s;
+    cursor: pointer
+}
+
+.box input[type="submit"]:hover {
+    background: #2e5dcc;
+    border-color:#2e5dcc;
+}
+
+.forgot {
+    text-decoration: underline
+}
+
+.error-message{
+    position: absolute;
+    top : 500px;
+    left: 590px;
+    width: 340px;
+    text-align: center;
+}
+
+.description{
+    text-align: left;
+    color: #ffffff;
+}
