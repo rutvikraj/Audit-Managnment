@@ -21,11 +21,10 @@
 
 ## Overview::
 
-* ### How to run this project || Execution :
-  ## --Dependencies on Other microsevices : ** You should have Java 8 or any version above that, maven, angular-cli - to run this project**
+* ### How to run this project || Execution : --Dependencies on Other microsevices : ** You should have Java 8 or any version above that, maven, angular-cli - to run this project**
   <br/>
 
-  ## --Steps after getting the project in your local machine : 
+   --Steps after getting the project in your local machine : 
     
 
   * #### 1> USING CMD OR TERMINAL<br/>
