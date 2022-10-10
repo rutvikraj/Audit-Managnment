@@ -1,20 +1,11 @@
-# CDE-MFPE-Project-Audit-Management-System
+Audit-Management-System
 
-## Authors :
+## Author :
 
 <table>
   <tr>
       <td>
         <a href="https://github.com/rutvikraj">Rutvikraj Vala</a>
-        </td>
-      <td>
-        <a href="https://github.com/adityan2851">Aditiyan B</a>
-        </td>
-      <td>
-        <a href="https://github.com/">Sudharshan N</a>
-        </td>
-      <td>
-        <a href="https://github.com/">Roshni M</a>
         </td>
     </tr>
 </table>
