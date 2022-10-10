@@ -1,14 +1,4 @@
-Audit-Management-System
-
-## Author :
-
-<table>
-  <tr>
-      <td>
-        <a href="https://github.com/rutvikraj">Rutvikraj Vala</a>
-        </td>
-    </tr>
-</table>
+## Audit-Management-System
 
 ## Overview:
 
